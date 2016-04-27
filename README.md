@@ -1,5 +1,5 @@
 # Boot.py
-Python script that automatically send an email using GMAIL SMTP protocol when computers starts
+Python script that automatically send an email using GMAIL SMTP protocol when computer starts
 
 All you have to do is to make it run on startup (for Windows just place the file in the Startup folder) and edit the emails and the password between the #...# symbols.
 
